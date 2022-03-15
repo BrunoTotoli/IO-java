@@ -20,5 +20,8 @@ public class IOFileManipulation {
         for (File file : files) {
             System.out.println(file);
         }
+
+        boolean isCreate = new File(path + "\\newfolder").mkdir();
+        System.out.println("Diretory created sucessfully: "+isCreate);
     }
 }
