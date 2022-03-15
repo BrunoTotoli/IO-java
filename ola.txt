@@ -1,5 +1,3 @@
-TESTE
-TESTANDO
-A
-B
-C
+Hello
+Test
+Hello
